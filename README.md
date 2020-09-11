@@ -1,3 +1,11 @@
+## Jupyter Notebook solution
+	dog_app-zh.ipynb
+## Anaconda environment requirements
+	my_requirements.yml
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
